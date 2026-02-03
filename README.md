@@ -76,7 +76,3 @@ The models are evaluated primarily on **Recall** and **F1-Score**, as minimizing
 ---
 
 **Disclaimer:** *This assistant is a proof-of-concept for educational purposes and should not be used for real-world medical diagnosis.*
-
----
-
-**Would you like me to help you write the `requirements.txt` file or perhaps a `main.py` template that loads your saved model?**
