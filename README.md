@@ -75,4 +75,17 @@ The models are evaluated primarily on **Recall** and **F1-Score**, as minimizing
 
 ---
 
-**Disclaimer:** *This assistant is a proof-of-concept for educational purposes and should not be used for real-world medical diagnosis.*
+## 🛡️ Disclaimer
+
+*This assistant is a proof-of-concept for educational purposes and should not be used for real-world medical diagnosis.*
+To make your **Medical Diagnosis Assistant** professional and easy for others to understand, here is a comprehensive `README.md` template. It is structured to highlight your work on heart disease prediction and provides clear instructions for users.
+
+*This tool is intended for educational and research purposes only. It is not a substitute for professional medical advice, diagnosis, or treatment. Always seek the advice of a qualified healthcare provider with any questions regarding a medical condition.*
+
+## 📜 License
+
+This project is licensed under the MIT License - see the [LICENSE](https://www.google.com/search?q=LICENSE) file for details.
+
+## 🤝 Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
